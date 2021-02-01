@@ -1,3 +1,5 @@
+转自：https://github.com/BenedictYoung/Lecture
+
 # 王道考研机试指南(第二版) 例题代码
 
 大家好，我是王道考研机试指南(第二版)的作者炉灰。
